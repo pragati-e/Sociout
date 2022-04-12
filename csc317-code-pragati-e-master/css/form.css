@@ -1,0 +1,74 @@
+header {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgb(252, 248, 1);
+  margin-top: 1cm;
+  font-size: medium;
+  padding: 16px 48px;
+  width: 200px;
+  box-shadow: 10px 4px 8px 10px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body {
+  background-color: #E5E5F7;
+  opacity: 1;
+  background-image: radial-gradient(#2d9df8 1.5px, transparent 1px), radial-gradient(#47acff 1px, #E5E5F7 1px);
+  background-size: 40px 40px;
+  background-position: 0 0,20px 20px;
+  font-family: arial;
+
+}
+
+input {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(233, 217, 217);
+  margin-top: 1cm;
+  font-size: medium;
+  padding: 16px 48px;
+  width: 200px;
+}
+
+button {
+  display: block;
+  margin: 32px auto;
+  background-color: rgb(252, 72, 1);
+}
+
+.loginbox {
+  background-color: rgb(235, 252, 1);
+  margin-top: 1cm;
+  font-size: medium;
+  padding: 16px 48px;
+  width: 200px;
+}
+
+.registration {
+  background-color: rgb(235, 252, 1);
+  margin-top: 1cm;
+  font-size: medium;
+  padding: 16px 48px;
+  width: 200px;
+}
+
+.postimage {
+  background-color: rgb(235, 252, 1);
+  margin-top: 1cm;
+  font-size: medium;
+  padding: 16px 48px;
+  width: 250px;
+}
+
+.imagepost {
+  background-color: rgb(235, 252, 1);
+  margin-top: 1cm;
+  font-size: medium;
+  padding: 16px 48px;
+  width: 200px;
+}

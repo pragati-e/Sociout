@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../css/form.css">
+    <script type="text/javascript" src="../js/register.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <header><center><h1>REGISTRATION</h1></center></header>
+    <div class="container">
+        
+
+        <form action="" name="registerform" onsubmit="return validateForm()" method="post" >
+
+        <div class="row"></div>
+
+        <div class="col-md-6"></div>
+
+        <div class="col-md-6">
+
+        <div class="form-group">
+        <center><label for="username">Username:</label>
+        <input type="text" class="form-control" id="username" placeholder="Enter Username" name="username"></center>
+        </div>
+
+        <div class="form-group">
+        <center><label for="emailaddress">EmailAddress:</label>
+        <input type="email" class="form-control" id="email" placeholder="Enter Email Address" name="email"></center>
+        </div>
+
+        <div class="form-group">
+        <center><label for="password">Password:</label>
+        <input type="password" class="form-control" id="password" placeholder="Enter Password" name="password"></center>
+        </div>
+
+        <div class="form-group">
+        <center><label for="confirmpassword">Confirm Password:</label>
+        <input type="password" class="form-control" id="confirmpassword" placeholder="Enter Password" name="confirmpassword"></center>
+        </div>
+
+        <div class="checkbox">
+        <br><center><label><input type="checkbox" name="age" required>I am 13+</label></center>
+        </div>
+
+        <div class="checkbox">
+        <center><label><input type="checkbox" name="rule" required>I accept all the TOS & Privacy Rules</label></center>
+        </div>
+
+        <br><center><button type="Go" class="btn btn-success">Register</button></center>
+
+        </form>
+        </div>
+        <div id="footer">
+            <h3 class="Next">Next Page</h3>
+            <div style="clear: both"></div>
+        </div>
+</body>
+</html>
