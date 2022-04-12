@@ -1,26 +1,10 @@
 # CSC 317 Repository
 
-## You must fill out the information below. Failure to do so will result in 0s for the assignments
+## Name  : Pragati Makani
 
-## Please do not modify the format of the student information below. When entering Student IDs please do not add any additional characters. Digits ONLY please. Please keep the space around the colon
+## Email : pragatimakani12@gmail.com
 
-## FAILURE TO FILL OUT THE INFORMATION BELOW CORRECTLY WILL CAUSE POINTS TO BE DEDUCTED FROM YOUR ASSIGNMENT.
+## Purpose : Developed a website with a mixture of Java, CSS, and HTML as a part of my coursework (Web Software Development) where people can connect with each other, upload images, also get likes and comments on their images from other users. The website content consists of logging in, registering, and post an image which we can be publicly seen on the dashboard. User can create an account by entering their credentials such as first name, last name, date of birth, email, and password. User must enter their password twice to confirm and make system recognize their credentials when they login. The data retrieved from the user activities of the website is stored in the SQL database taking advantage of its security and data privacy.
+![image](https://user-images.githubusercontent.com/78123335/162861469-5e851a69-fc5a-4a2d-b420-712e1241427a.png)
 
-## Student Name  : Pragati Makani
 
-## Student ID    : 920821704
-
-## Student Email : pmakani1@mail.sfsu.edu
-
-## Purpose of Repository
-
-This repository will be used to the source code for all three assignments. You will be expected for each assignment to:
-
-All HTML files should be in the html folder and ALL CSS files should be stored in the css folder. Failure to put files in the correct folders will cause points to be deducted from your assignment score.
-
-1. Create a new branch for each new assignment. The name of the branch will be chosen by you but should be related to the assignment.
-2. Complete all the requirements for each assignment.
-3. Push all completed code to the branch.
-4. Merge completed code back into the master branch.
-
-This is something you will be doing for every assignment.
